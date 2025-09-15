@@ -12,7 +12,7 @@ The workflow includes data cleaning, exploratory data analysis (EDA), and intera
 
 ## 📂 Dataset
 - Contains student demographic, academic, and migration details.
-- ~12,000+ rows with multiple categorical and numerical features.
+- ~5000+ rows with multiple categorical and numerical features.
 - Includes intentional dirtiness (missing values, duplicates, inconsistent formats).
 
 ## 🔎 Workflow
@@ -29,7 +29,8 @@ The workflow includes data cleaning, exploratory data analysis (EDA), and intera
 3. **Exploratory Data Analysis (EDA)**  
    - Univariate analysis (distribution of students, courses, universities).  
    - Bivariate analysis (student migration by year, gender vs. course).  
-   - Multivariate analysis (graduation trends across universities).  
+   - Multivariate analysis (graduation trends across universities).
+   - correlation map ( strong positive or negative relationships) 
 
 4. **Visualizations (Interactive)**  
    - Line charts (Graduation trends by course & year).  
@@ -39,7 +40,7 @@ The workflow includes data cleaning, exploratory data analysis (EDA), and intera
    - Sunburst/Treemap (Migration patterns).  
 
 5. **Findings & Insights**  
-   - Clear trends in student migration over years.  
+   - Clear trends in student migration over the years.  
    - Popular courses and top universities identified.  
    - Data inconsistencies fixed to improve reliability.  
 

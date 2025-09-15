@@ -1,4 +1,4 @@
-# Capstone Project - Student Data Analysis
+# Capstone Project - Global Student Migration
 
 ## 📌 Project Overview
 This project analyzes student migration, course enrollment, and graduation patterns using a raw dataset.  

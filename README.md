@@ -35,7 +35,7 @@ The workflow includes data cleaning, exploratory data analysis (EDA), and intera
 4. **Visualizations (Interactive)**  
    - Line charts (Graduation trends by course & year).  
    - Bar charts (Student counts by university).  
-   - Pie charts (Gender distribution).  
+   - Pie charts (Enrollment distribution).  
    - Heatmaps (Correlation between features).  
    - Sunburst/Treemap (Migration patterns).  
 
